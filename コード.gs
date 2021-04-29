@@ -1,5 +1,5 @@
 // LINE developersのメッセージ送受信設定に記載のアクセストークン
-const LINE_TOKEN = 'PcPtp3lsPPtALDm5ADFjZxsJXn5dDgiejYbHOSJJDTXXmIBh557b1FohC09ZyNUrr1b3I2/33FB+8Yplz8Ir84ndTdaGqLGu3Urk6lkwoU1GCgDrkAJcfX9babiP4xLAZ3/kmAbjjY9GQ5PdoswkeQdB04t89/1O/w1cDnyilFU='; // Messaging API設定の一番下で発行できるLINE Botのアクセストークン（Channel Secretはいらないみたいです。）
+const LINE_TOKEN = '※※※※※※※※※※※'; // Messaging API設定の一番下で発行できるLINE Botのアクセストークン（Channel Secretはいらないみたいです。）
 const LINE_URL = 'https://api.line.me/v2/bot/message/reply';
 
 //postリクエストを受取ったときに発火する関数
