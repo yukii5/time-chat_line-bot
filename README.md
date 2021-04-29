@@ -22,3 +22,14 @@ LINE_BOTからの自動投稿機能です。
 3. gasの時限トリガーをセット
 
 4. 返信が来た文をスプレッドシートに自動入力 
+
+
+## イメージ画像
+### LINE_BOT受信画面
+<img width="727" alt="line_home" src="https://user-images.githubusercontent.com/71483628/116628696-a7c1a980-a98a-11eb-9a00-17ac8ba4472c.png">
+
+### LINE_BOT詳細画面
+<img width="364" alt="line_show" src="https://user-images.githubusercontent.com/71483628/116628703-aabc9a00-a98a-11eb-8959-134c2fcad384.png">
+
+### 返信内容(スプレッドシート)画面
+<img width="884" alt="Twitter_spreadsheet" src="https://user-images.githubusercontent.com/71483628/116628722-b5772f00-a98a-11eb-8e2d-2426ad954dba.png">
