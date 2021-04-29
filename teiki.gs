@@ -1,5 +1,5 @@
 // LINE Message API アクセストークン
-var ACCESS_TOKEN = 'PcPtp3lsPPtALDm5ADFjZxsJXn5dDgiejYbHOSJJDTXXmIBh557b1FohC09ZyNUrr1b3I2/33FB+8Yplz8Ir84ndTdaGqLGu3Urk6lkwoU1GCgDrkAJcfX9babiP4xLAZ3/kmAbjjY9GQ5PdoswkeQdB04t89/1O/w1cDnyilFU=';
+var ACCESS_TOKEN = '※※※※※※※※※※※';
 
 function broadcast() {
   UrlFetchApp.fetch('https://api.line.me/v2/bot/message/broadcast', {
