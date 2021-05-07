@@ -32,4 +32,4 @@ LINE_BOTからの自動投稿機能です。
 <img width="364" alt="line_show" src="https://user-images.githubusercontent.com/71483628/116628703-aabc9a00-a98a-11eb-8959-134c2fcad384.png">
 
 ### 返信内容(スプレッドシート)画面
-<img width="884" alt="Twitter_spreadsheet" src="https://user-images.githubusercontent.com/71483628/116628722-b5772f00-a98a-11eb-8e2d-2426ad954dba.png">
+<img width="672" alt="LINE_spreadsheet" src="https://user-images.githubusercontent.com/71483628/117395154-686afe00-af32-11eb-9865-d8a01a2b2a2a.png">
